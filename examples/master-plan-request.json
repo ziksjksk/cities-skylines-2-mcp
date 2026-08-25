@@ -1,0 +1,11 @@
+{
+  "density": "high",
+  "waterfront": true,
+  "fetchTerrain": true,
+  "bounds": {
+    "minX": -5000,
+    "maxX": 5000,
+    "minZ": -5000,
+    "maxZ": 5000
+  }
+}
